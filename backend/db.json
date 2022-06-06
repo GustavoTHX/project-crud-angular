@@ -1,0 +1,22 @@
+{
+    "products": [{
+        "id": 1,
+        "name": "Coca-cola",
+        "price": 2.50 
+    },
+    {
+        "id": 2,
+        "name": "Arroz",
+        "price": 16.99
+    },
+    {
+        "id": 3,
+        "name": "Feijao",
+        "price": 3.50 
+    },
+    {
+        "id": 4,
+        "name": "Frango 1kl",
+        "price": 6.99
+    }]
+}
